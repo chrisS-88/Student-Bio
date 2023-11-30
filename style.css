@@ -5,19 +5,24 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #efeee7;
-  color: #333333;
+  background-color: #f5f7f8;
+  color: #495e57;
 }
 
 header {
-  background-color: #333333;
+  background-color: #495e57;
   text-align: center;
   padding: 10px 0;
   margin-bottom: 30px;
 }
 h1 {
-  color: #eee;
+  color: #f5f7f8;
   font-size: 24px;
+}
+
+h2 {
+  margin-left: 20px;
+  font-size: 25px;
 }
 
 .container {
@@ -38,6 +43,7 @@ h1 {
 
 #bio-img {
   margin-right: 20px;
+  border-radius: 50%;
 }
 
 #contact-info {
@@ -46,5 +52,5 @@ h1 {
 }
 
 a {
-  color: #d21034;
+  color: #f4ce14;
 }
